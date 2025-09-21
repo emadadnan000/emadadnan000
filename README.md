@@ -16,9 +16,7 @@ Welcome to my GitHub profile!
 ![Emad's GitHub stats](https://github-readme-stats.vercel.app/api?username=emadadnan000&show_icons=true&theme=radical)
 
 ## 🛠️ Skills
-- Python | JavaScript | TypeScript
-- React | Node.js | Express
-- Docker | Kubernetes | AWS
+- Python | Azure
 
 ## ✨ Fun Facts
 - I love open source!
