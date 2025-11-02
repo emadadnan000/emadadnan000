@@ -4,13 +4,12 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 - 💼 Software Developer
-- 🎓 Computer Science Graduate
+- 🎓 High School Grad
 - 🌱 Currently learning: Cloud Computing & DevOps
 
 ## 🔗 Links
-- [Portfolio](https://your-portfolio.com)
-- [LinkedIn](https://linkedin.com/in/emadadnan000)
-- [Twitter](https://twitter.com/emadadnan000)
+- [LinkedIn](https://www.linkedin.com/in/emadadnan000)
+- [Twitter](https://www.x.com/emadadnan000)
 
 ## 📊 GitHub Stats
 ![Emad's GitHub stats](https://github-readme-stats.vercel.app/api?username=emadadnan000&show_icons=true&theme=radical)
@@ -20,7 +19,6 @@ Welcome to my GitHub profile!
 
 ## ✨ Fun Facts
 - I love open source!
-- Coffee addict ☕
 
 <!-- Add more sections as you like! -->
 <!--
