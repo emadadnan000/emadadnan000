@@ -28,6 +28,9 @@ Welcome to my GitHub profile!
 ## ✨ Fun Facts
 - I love open source!
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- Add more sections as you like! -->
 <!--
 **emadadnan000/emadadnan000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
