@@ -17,10 +17,12 @@ Welcome to my GitHub profile!
 
 ## 🔗 Links
 - [LinkedIn](https://www.linkedin.com/in/emadadnan000)
-- [Twitter](https://www.x.com/emadadnan000)
+- [X](https://www.x.com/emadadnan000)
 
-## 📊 GitHub Stats
-![Emad's GitHub stats](https://github-readme-stats.vercel.app/api?username=emadadnan000&show_icons=true&theme=radical)
+## 📊 Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🛠️ Skills
 - Python | Azure
