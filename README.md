@@ -32,25 +32,16 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
 <!--START_SECTION:SHOW_TOTAL_CODE_TIME-->
+
 <!--END_SECTION:SHOW_TOTAL_CODE_TIME-->
+
 <!--START_SECTION:SHOW_DAYS_OF_WEEK-->
+
 <!--END_SECTION:SHOW_DAYS_OF_WEEK-->
+
 <!--START_SECTION:SHOW_LANGUAGE-->
+
 <!--END_SECTION:SHOW_LANGUAGE-->
 
-<!-- Add more sections as you like! -->
-<!--
-**emadadnan000/emadadnan000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
