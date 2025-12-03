@@ -37,7 +37,7 @@ Sunday                   39 commits          ███░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **Languages** 
 
 ```text
 💬 Programming Languages: 
@@ -51,15 +51,4 @@ JSON                     0 secs              ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:SHOW_TOTAL_CODE_TIME-->
-
-<!--END_SECTION:SHOW_TOTAL_CODE_TIME-->
-
-<!--START_SECTION:SHOW_DAYS_OF_WEEK-->
-
-<!--END_SECTION:SHOW_DAYS_OF_WEEK-->
-
-<!--START_SECTION:SHOW_LANGUAGE-->
-
-<!--END_SECTION:SHOW_LANGUAGE-->
 
