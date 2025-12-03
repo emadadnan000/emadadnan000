@@ -19,6 +19,7 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "true"
           SHOW_DAYS_OF_WEEK: "true"
           SHOW_LANGUAGE: "true"
+          LANGUAGE_TITLE: "Weekly Coding Languages"
 
         
           SHOW_OS: "false"
