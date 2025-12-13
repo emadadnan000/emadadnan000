@@ -10,9 +10,7 @@ My core belief is that technology is one of the most powerful tools we have for 
 
 * ☁️ **Cloud Computing:** I am a **Microsoft Certified: Azure AI Engineer Associate**. I'm actively building my skills in cloud infrastructure and services.
 * 📊 **Data Science & AI:** I have experience building data visualization projects and am currently studying AI/DS to learn how to turn raw data into meaningful insights.
-* 🛰️ **Tech for Social Impact:** My real passion is at the intersection of technology and social good. I love projects that align with the UN's Sustainable Development Goals (SDGs).
-* ✍️ **Writing & Communication:** I believe in sharing knowledge. I write articles on Medium and enjoy mentoring others.
-Welcome to my GitHub profile!
+
 
 
 ## 🔗 Links
