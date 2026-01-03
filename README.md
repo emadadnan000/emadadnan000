@@ -20,26 +20,6 @@ My core belief is that technology is one of the most powerful tools we have for 
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-Tuesday                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Wednesday                25 commits          █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-Thursday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-Friday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Saturday                 30 commits          ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
-Sunday                   37 commits          ████████░░░░░░░░░░░░░░░░░   31.09 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
 
 <!--END_SECTION:waka-->
 
