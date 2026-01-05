@@ -20,7 +20,7 @@ My core belief is that technology is one of the most powerful tools we have for 
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%204%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
