@@ -20,28 +20,6 @@ My core belief is that technology is one of the most powerful tools we have for 
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%203%20mins-blue?style=flat)
-
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Tuesday                  83 commits          ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
-Wednesday                97 commits          ███████░░░░░░░░░░░░░░░░░░   29.13 % 
-Thursday                 52 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Sunday                   43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
 
 <!--END_SECTION:waka-->
 
