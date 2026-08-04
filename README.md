@@ -41,30 +41,30 @@ Sunday                   43 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 12 mins        ████████████████████░░░░░   80.18 % 
-Markdown                 17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+Python                   2 hrs 11 mins       ██████████████████████░░░   87.59 % 
+Markdown                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (2.7%)
+⏱ AI Coding Time: 25 mins (16.68%)
 
-✍️ 75 lines written by AI, 237 lines written by hand (24.04% AI-written)
+✍️ 86 lines written by AI, 444 lines written by hand (16.23% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 101,011 Input Tokens, 2,339 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.34 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 3 AI Sessions, 7 AI Prompts
 
-Github-Copilot           75 lines            █████████████████████████   100.00 % 
+Github-Copilot           86 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 24.04% of written lines came from AI
-📝 Concise Prompter — average 77 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 78.75% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 16.23% of written lines came from AI
+📝 Concise Prompter — average 251 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 85.35% of changed lines were hand-edited
 ```
 
 
