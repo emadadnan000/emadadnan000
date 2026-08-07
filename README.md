@@ -20,10 +20,6 @@ My core belief is that technology is one of the most powerful tools we have for 
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2031%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%206%20mins-blue?style=flat)
-
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
@@ -41,16 +37,17 @@ Sunday                   43 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 11 mins       ██████████████████████░░░   87.59 % 
-Markdown                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Python                   1 hr 25 mins        █████████████████████░░░░   85.10 % 
+Markdown                 14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 mins (16.68%)
+⏱ AI Coding Time: 23 mins (23.19%)
 
-✍️ 86 lines written by AI, 444 lines written by hand (16.23% AI-written)
+✍️ 11 lines written by AI, 435 lines written by hand (2.47% AI-written)
 
 🔤 101,011 Input Tokens, 2,339 Output Tokens
 
@@ -58,13 +55,13 @@ Markdown                 18 mins             ███░░░░░░░░�
 
 🧠 3 AI Sessions, 7 AI Prompts
 
-Github-Copilot           86 lines            █████████████████████████   100.00 % 
+Github-Copilot           11 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 16.23% of written lines came from AI
-📝 Concise Prompter — average 251 characters per prompt
+🧑‍💻 Mostly Hands-On — 2.47% of written lines came from AI
+📝 Concise Prompter — average 246 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 85.35% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.64% of changed lines were hand-edited
 ```
 
 
