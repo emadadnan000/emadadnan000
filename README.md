@@ -20,9 +20,9 @@ My core belief is that technology is one of the most powerful tools we have for 
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2021%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Wednesday** 
 
@@ -41,26 +41,29 @@ Sunday                   43 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   19 mins             ███████████████████████░░   90.22 % 
-Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Python                   1 hr                ████████████████████████░   96.53 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (59.09%)
+⏱ AI Coding Time: 14 mins (22.79%)
 
-✍️ 0 lines written by AI, 35 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 248 lines written by hand (0.0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 32,174 Input Tokens, 628 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.11 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 36 characters per prompt
+📝 Concise Prompter — average 166 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
