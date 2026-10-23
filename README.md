@@ -41,7 +41,7 @@ Sunday                   43 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   37 mins             █████████████████████████   100.00 % 
+Python                   6 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
