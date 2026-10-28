@@ -27,13 +27,13 @@ My core belief is that technology is one of the most powerful tools we have for 
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-Tuesday                  122 commits         ███████░░░░░░░░░░░░░░░░░░   28.05 % 
-Wednesday                125 commits         ███████░░░░░░░░░░░░░░░░░░   28.74 % 
-Thursday                 78 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+Monday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Tuesday                  122 commits         ███████░░░░░░░░░░░░░░░░░░   27.98 % 
+Wednesday                126 commits         ███████░░░░░░░░░░░░░░░░░░   28.90 % 
+Thursday                 78 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Sunday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Saturday                 35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+Sunday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
 ```
 
 
@@ -41,7 +41,8 @@ Sunday                   43 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 45 mins        █████████████████████████   100.00 % 
+Python                   2 hrs 32 mins       █████████████████████████   99.79 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 
 🤖 **AI Coding This Week** 
