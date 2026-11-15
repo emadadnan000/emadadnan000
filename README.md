@@ -47,28 +47,7 @@ Text                     0 secs              ░░░░░░░░░░░�
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
-🤖 **AI Coding This Week** 
 
-```text
-⏱ AI Coding Time: 1 hr 46 mins (58.49%)
-
-✍️ 0 lines written by AI, 21,459 lines written by hand (0.0% AI-written)
-
-🔤 4,349 Input Tokens, 1,719 Output Tokens
-
-💵 $0.04 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 56 AI Prompts
-
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 77 characters per prompt
-🔁 Iterative Prompter — average 19 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
-```
 
 
 <!--END_SECTION:waka-->
