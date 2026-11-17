@@ -20,7 +20,7 @@ My core belief is that technology is one of the most powerful tools we have for 
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%203%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%207%20mins-blue?style=flat)
 
@@ -41,18 +41,19 @@ Sunday                   45 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 32 mins       █████████████████████░░░░   83.70 % 
-Other                    29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Python                   3 hrs 13 mins       ██████████████████████░░░   86.14 % 
+Other                    29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 46 mins (58.49%)
+⏱ AI Coding Time: 1 hr 46 mins (47.54%)
 
-✍️ 0 lines written by AI, 21,459 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 58,244 lines written by hand (0.0% AI-written)
 
 🔤 4,349 Input Tokens, 1,719 Output Tokens
 
