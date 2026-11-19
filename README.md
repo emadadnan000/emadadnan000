@@ -41,33 +41,31 @@ Sunday                   45 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 13 mins       ██████████████████████░░░   86.14 % 
-Other                    29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   2 hrs 48 mins       █████████████████████████   99.02 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 46 mins (47.54%)
+⏱ AI Coding Time: 1 hr 17 mins (45.44%)
 
-✍️ 0 lines written by AI, 58,244 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 50,247 lines written by hand (0.0% AI-written)
 
-🔤 4,349 Input Tokens, 1,719 Output Tokens
+🔤 1,875 Input Tokens, 1,461 Output Tokens
 
-💵 $0.04 Estimated AI Cost This Week
+💵 $0.03 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 56 AI Prompts
+🧠 2 AI Sessions, 17 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 77 characters per prompt
-🔁 Iterative Prompter — average 19 prompts per session
+📝 Concise Prompter — average 103 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
