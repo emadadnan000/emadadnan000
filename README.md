@@ -20,9 +20,9 @@ My core belief is that technology is one of the most powerful tools we have for 
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2053%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Tuesday** 
 
@@ -41,30 +41,30 @@ Sunday                   45 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 19 mins       █████████████████████░░░░   85.23 % 
-Other                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-CSV                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Python                   3 hrs 25 mins       ██████████████████████░░░   89.52 % 
+Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 10 mins (43.26%)
+⏱ AI Coding Time: 1 hr 45 mins (46.04%)
 
-✍️ 0 lines written by AI, 51,857 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 70,618 lines written by hand (0.0% AI-written)
 
-🔤 75,724 Input Tokens, 62 Output Tokens
+🔤 95,787 Input Tokens, 62 Output Tokens
 
-💵 $0.05 Estimated AI Cost This Week
+💵 $0.06 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 9 AI Prompts
+🧠 5 AI Sessions, 10 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 115 characters per prompt
+📝 Concise Prompter — average 137 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
