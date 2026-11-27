@@ -22,18 +22,18 @@ My core belief is that technology is one of the most powerful tools we have for 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2022%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Tuesday                  127 commits         ███████░░░░░░░░░░░░░░░░░░   27.67 % 
-Wednesday                127 commits         ███████░░░░░░░░░░░░░░░░░░   27.67 % 
-Thursday                 85 commits          █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Friday                   7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-Saturday                 36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Sunday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Monday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Tuesday                  127 commits         ███████░░░░░░░░░░░░░░░░░░   27.31 % 
+Wednesday                127 commits         ███████░░░░░░░░░░░░░░░░░░   27.31 % 
+Thursday                 91 commits          █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+Friday                   7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Saturday                 36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Sunday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
 ```
 
 
@@ -41,31 +41,31 @@ Sunday                   45 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 25 mins       ██████████████████████░░░   89.52 % 
-Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Python                   3 hrs 25 mins       █████████████████░░░░░░░░   66.06 % 
+Other                    1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   32.49 % 
+CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 45 mins (46.04%)
+⏱ AI Coding Time: 3 hrs 7 mins (60.18%)
 
 ✍️ 0 lines written by AI, 70,618 lines written by hand (0.0% AI-written)
 
-🔤 95,787 Input Tokens, 62 Output Tokens
+🔤 66,721 Input Tokens, 145 Output Tokens
 
-💵 $0.06 Estimated AI Cost This Week
+💵 $0.02 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 10 AI Prompts
+🧠 4 AI Sessions, 20 AI Prompts
 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 137 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 336 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
