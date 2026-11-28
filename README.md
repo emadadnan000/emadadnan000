@@ -41,19 +41,19 @@ Sunday                   45 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 25 mins       █████████████████░░░░░░░░   66.06 % 
-Other                    1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   32.49 % 
-CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Python                   2 hrs 44 mins       ███████████████░░░░░░░░░░   60.92 % 
+Other                    1 hr 42 mins        █████████░░░░░░░░░░░░░░░░   37.81 % 
+CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 7 mins (60.18%)
+⏱ AI Coding Time: 3 hrs 7 mins (69.43%)
 
-✍️ 0 lines written by AI, 70,618 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 36,196 lines written by hand (0.0% AI-written)
 
-🔤 66,721 Input Tokens, 145 Output Tokens
+🔤 66,721 Input Tokens, 4,171 Output Tokens
 
 💵 $0.02 Estimated AI Cost This Week
 
